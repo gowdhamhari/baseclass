@@ -8,6 +8,8 @@ public class Employee {
 	}
 	public void deposit() {
 		System.out.println("deposit is :3");
+		System.out.println("work in A");
+		System.out.println("i am work in B");
 		System.out.println("work in B");
 		System.out.println("i am in accept");
 		
