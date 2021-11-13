@@ -10,6 +10,10 @@ public class Employee {
 		System.out.println("deposit is :3");
 		System.out.println("work in A");
 		System.out.println("i am work in B");
+		System.out.println("work in B");
+		System.out.println("i am in accept");
+		
+
 	}
 	
 
